@@ -1,4 +1,8 @@
 # Plan checklist
+ - [ ] NAME! need a name to create repo, project etc.
+   - PCBS
+   - Hardware (too generic)
+   - TheGame (taken by some rapper)
  - [ ] Finish plan
  - [ ] List all features
   - Description
