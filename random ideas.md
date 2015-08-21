@@ -6,3 +6,5 @@
 - @jirvoz more object-oriented, test-driven would be ideal
 - after project start, rewrite this repo as issues and milestones
 - choose timezone, display every time in chosen timzone
+#Travis Build matrix
+TODO
