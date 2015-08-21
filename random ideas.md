@@ -1,1 +1,5 @@
 - translations?
+- http://shields.io/ good list of badge services
+- gulp https://developers.google.com/web/tools/setup/workspace/setup-buildtools
+- great guide https://developers.google.com/web/tools/setup/?hl=en
+- https://github.com/google/web-starter-kit can copy some gulp tasks
