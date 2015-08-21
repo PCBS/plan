@@ -44,4 +44,3 @@
     - Issues
     - Wiki
     - PRs
-    - 
