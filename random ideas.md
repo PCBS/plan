@@ -8,7 +8,7 @@
 - choose timezone, display every time in chosen timzone
 - DB engine sqlite?
 - Heroku
-- Docker
+- Docker https://labs.ctl.io/what-is-docker-and-when-to-use-it/
 
 #Travis Build matrix
   - php 5.6, build, unit test
