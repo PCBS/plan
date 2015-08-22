@@ -7,6 +7,8 @@
 - after project start, rewrite this repo as issues and milestones
 - choose timezone, display every time in chosen timzone
 - DB engine sqlite?
+- Heroku
+- Docker
 
 #Travis Build matrix
   - php 5.6, build, unit test
