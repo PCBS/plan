@@ -1,5 +1,5 @@
 # Plan checklist
- - [ ] NAME! need a name to create repo, project etc.
+ - [ ] NAME! #1 need a name to create repo, project etc.
    - PCBS
    - Hardware (too generic)
    - TheGame (taken by some rapper)
