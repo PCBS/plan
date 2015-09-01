@@ -9,6 +9,9 @@
 - DB engine sqlite?
 - Heroku
 - Docker https://labs.ctl.io/what-is-docker-and-when-to-use-it/
+- browserify
+- component
+- testlingCI
 
 #Travis Build matrix
   - php 5.6, build, unit test
